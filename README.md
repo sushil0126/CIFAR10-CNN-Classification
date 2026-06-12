@@ -2,7 +2,21 @@
 
 This project builds a **Convolutional Neural Network (CNN)** using **PyTorch** to classify images from the **CIFAR-10 dataset**. The model is trained to recognize 10 different object categories such as airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks.
 
-The project demonstrates a full deep learning pipeline including data preprocessing, augmentation, CNN architecture design, training, evaluation, confusion matrix analysis, and experimentation to reduce overfitting.
+The project demonstrates a full deep learning pipeline including data preprocessing, augmentation, CNN architecture design, training, evaluation, confusion matrix analysis, and experimentation to reduce overfitting. 
+
+## 📌 Table of Contents
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Dataset](#dataset)
+- [Data Preprocessing & Augmentation](#data-preprocessing--augmentation)
+- [Model Architecture](#model-architecture)
+- [Model Experiments](#model-experiments)
+- [Training Process](#training-process)
+- [Evaluation](#evaluation)
+- [Confusion Matrix](#confusion-matrix)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Future Improvements](#future-improvements)
 
 ## 📊 Project Overview
 
@@ -110,6 +124,7 @@ CIFAR10-CNN-Classification
 
 ### Clone Repository
 git clone https://github.com/sushil0126/CIFAR10-CNN-Classification.git 
+cd CIFAR10-CNN-Calssification
 
 ### Install Dependencies
 pip install torch torchvision numpy matplotlib seaborn scikit-learn
