@@ -124,7 +124,6 @@ CIFAR10-CNN-Classification
 
 ### Clone Repository
 git clone https://github.com/sushil0126/CIFAR10-CNN-Classification.git 
-cd CIFAR10-CNN-Calssification
 
 ### Install Dependencies
 pip install torch torchvision numpy matplotlib seaborn scikit-learn
