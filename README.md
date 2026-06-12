@@ -93,15 +93,18 @@ Training uses backpropagation and gradient descent to minimize loss.
 ![Confusion Matrix](image/confusion_matrix.png)
 
 
-## 📁 Project Structure
+## 📂 Project Structure
 
+```text
 CIFAR10-CNN-Classification
 │
 ├── images/
 │   └── confusion_matrix.png
 │
+├── .gitignore
 ├── CIFAR10_cnn.ipynb
 └── README.md
+```
 
 ## ▶️ How to Run
 
