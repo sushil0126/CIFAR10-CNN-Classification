@@ -137,5 +137,5 @@ jupyter notebook
 - Add Batch Normalization
 - Use ResNet or pretrained models (Transfer Learning)
 - Add learning rate scheduler
-- Try Cutout / Mixup augmentation
+- Try Cutout / Mixup augmentations
 - Deploy using Streamlit app
